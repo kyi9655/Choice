@@ -1,2 +1,0 @@
-android:text"GYM 덩어리"
-하염
